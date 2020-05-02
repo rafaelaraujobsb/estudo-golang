@@ -14,3 +14,8 @@ Constantes não podem ser declaradas de forma simplificada
 %t para boleanos
 
 Tipos
+
+GO não tem operadores ternários
+Não é permitido fazer aritmética de ponteiros
+
+go run *.go -> compilar e executar todos os arquivos
