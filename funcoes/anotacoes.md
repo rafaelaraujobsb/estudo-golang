@@ -9,3 +9,5 @@
 * Defer faz o atraso de uma execução, ela vai ser executada por último dentro de um bloco
 * O go prioriza a passagem por valor, para manter as funções pura
 * init é uma função que o go sempre executa
+
+* Mapas, slices e chan não precisam são passados como referência
